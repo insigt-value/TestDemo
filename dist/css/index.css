@@ -1,0 +1,24 @@
+.icon-map {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: -43px -0px;
+}
+
+.icon-xiaoyou {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: -23px -0px;
+}
+
+.icon-xueshen {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: -0px -0px;
+}
+
+.icon-laifang {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: -23px -16px;
+}
+
+.icon-search {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: -0px -16px;
+}
